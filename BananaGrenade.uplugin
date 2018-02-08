@@ -1,12 +1,17 @@
 {
-    "FileVersion": 3,
-    "Version": 1,
-    "VersionName": "1.0",
-    "FriendlyName": "Banana Grenade",
-    "Description": "Adds banana grenade",
-    "Category": "Mods",
-    "CreatedBy": "Jonpas",
-    "CreatedByURL": "",
-    "CanContainContent": "true",
-    "IsBetaVersion": true
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Banana Grenade",
+	"Description": "Banana Grenade mod for Squad",
+	"Category": "Squad",
+	"CreatedBy": "Jonpas",
+	"CreatedByURL": "https://github.com/jonpas",
+	"DocsURL": "https://github.com/jonpas/Squad-BananaGrenade",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/jonpas/Squad-BananaGrenade/issues",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsMod": true,
+	"Installed": false
 }

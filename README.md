@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/jonpas/Squad-BananaGrenade/blob/master/extras/assets/logo/BananaGrenade-Logo.jpg">
+    <img src="https://github.com/jonpas/Squad-BananaGrenade/blob/master/Assets/BananaGrenade-Logo.jpg">
 </p>
 <p align="center">
     <a href="https://github.com/jonpas/Squad-BananaGrenade/releases/latest">
