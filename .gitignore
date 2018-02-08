@@ -83,3 +83,6 @@ DerivedDataCache/*
 
 # Backup files
 *.blend?
+
+# FBX exports
+*.fbx
