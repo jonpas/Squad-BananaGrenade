@@ -1,6 +1,6 @@
 [Modding.Core]
 ModName=BananaGrenade
-ModDescription=Banana Grenade
+ModDescription=Complimenting the game with much required potassium to bend the strength of the soldiers during dire times on the battlefield.\\nUsable on included test map: `AdminChangeMap BananaMap`\\nSource: https://github.com/jonpas/Squad-BananaGrenade
 ModSteamImagePreview=C:/Program Files (x86)/Epic Games/Squad/Squad/Plugins/Mods/BananaGrenade/Assets/BananaGrenade-Logo.png
 ModPathToPakFile=C:/Program Files (x86)/Epic Games/Squad/Squad/Plugins/Mods/BananaGrenade/Build
 PublisherID=1295269165
