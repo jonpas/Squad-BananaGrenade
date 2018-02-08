@@ -1,8 +1,8 @@
 [Modding.Core]
 ModName=BananaGrenade
-ModDescription="[b]Banana Grenade[/b] is a Squad mod that aims to compliment the game with much required potassium to bend the strength of the soldiers during dire times on the battlefield.\r\n\r\nThe mod is entirely [b]open-source[/b] and licensed under the GNU General Public License ([url=https://github.com/jonpas/Squad-BananaGrenade/blob/master/LICENSE]GPLv2[/url]).\r\n\r\nThanks to [url=http://ace3mod.com/team.html]ACE3 Team[/url] for their open-source nature and many bananas."
-ModSteamImagePreview=/Assets/BananaGrenade-Logo.png
-ModPathToPakFile=
-PublisherID=0
+ModDescription=Banana Grenade
+ModSteamImagePreview=C:/Program Files (x86)/Epic Games/Squad/Squad/Plugins/Mods/BananaGrenade/Assets/BananaGrenade-Logo.png
+ModPathToPakFile=C:/Program Files (x86)/Epic Games/Squad/Squad/Plugins/Mods/BananaGrenade/Build
+PublisherID=1295269165
 
 
