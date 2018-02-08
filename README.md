@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/jonpas/Squad-BananaGrenade/blob/master/Assets/BananaGrenade-Logo.jpg">
+    <img src="https://github.com/jonpas/Squad-BananaGrenade/blob/master/Assets/BananaGrenade-Logo.png">
 </p>
 <p align="center">
     <a href="https://github.com/jonpas/Squad-BananaGrenade/releases/latest">
@@ -13,7 +13,7 @@
     </a>
 </p>
 
-**Banana Grenade** is a Squad mod that aims to compliment the game with much required potassium.
+**Banana Grenade** is a Squad mod that aims to compliment the game with much required potassium to bend the strength of the soldiers during dire times on the battlefield.
 
 The mod is entirely **open-source** and licensed under the GNU General Public License ([GPLv2](https://github.com/jonpas/Squad-BananaGrenade/blob/master/LICENSE)).
 
